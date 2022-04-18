@@ -4,7 +4,7 @@ Project responsible for presenting my skills with JavaScript
 
 # Access the project:
 
-Access the JavaScript files named "challenges.js", "challenges2.js" inside the src folder.
+Access the JavaScript files named "challenges.js" and "challenges2.js" inside the src folder.
 
 # NOTA
 
