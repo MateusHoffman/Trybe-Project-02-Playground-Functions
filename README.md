@@ -1,3 +1,18 @@
+# 💚💚 Trybe-Project-02-Playground-Functions 💚💚
+
+Project responsible for presenting my skills with JavaScript
+
+# Access the project:
+### https://mateushoffman.github.io/Trybe-Project-02-Playground-Functions/
+
+# NOTA
+
+<div align="center" margin="50px">
+	<img src="nota1.png"/>
+</div>
+
+---
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
