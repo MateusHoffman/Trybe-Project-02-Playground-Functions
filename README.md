@@ -4,7 +4,7 @@ Project responsible for presenting my skills with JavaScript
 
 # Access the project:
 
-Acesse os arquivos JavaScript chamados "desafio", "desafio 2" dentro da pasta src
+Access the JavaScript files named "challenges.js", "challenges2.js" inside the src folder.
 
 # NOTA
 
