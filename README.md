@@ -3,7 +3,8 @@
 Project responsible for presenting my skills with JavaScript
 
 # Access the project:
-### https://mateushoffman.github.io/Trybe-Project-02-Playground-Functions/
+
+Acesse os arquivos JavaScript chamados "desafio", "desafio 2" dentro da pasta src
 
 # NOTA
 
