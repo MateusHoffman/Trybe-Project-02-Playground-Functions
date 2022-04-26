@@ -1,6 +1,6 @@
 # 💚💚 Trybe-Project-02-Playground-Functions 💚💚
 
-Project responsible for presenting my skills with JavaScript 
+Project responsible for presenting my skills with JavaScript  
 
 # Access the project:
 
